@@ -1,0 +1,17 @@
+
+
+
+.Header_container{
+    
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.header_content{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: yellow;
+}
